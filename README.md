@@ -15,3 +15,5 @@
 
 \*\*\*\*[**GITEE**](https://gitee.com/Rcrwrate/touhou/blob/master/SUMMARY.md)**\(国内镜像\)**
 
+**无法阅读** [~~**CODING**~~](https://sirin.coding.net/public/touhou/touhou/git/files)~~\*\*\*\*~~
+
