@@ -9,5 +9,9 @@
 * 喵玉汉化组
 * 魔恋汉化组
 
+### ~~更好的阅读？~~
 
+\*\*\*\*[**GITHUB**](https://github.com/Rcrwrate/touhou/blob/master/SUMMARY.md)\*\*\*\*
+
+\*\*\*\*[**GITEE**](https://gitee.com/Rcrwrate/touhou/blob/master/SUMMARY.md)**\(国内镜像\)**
 
