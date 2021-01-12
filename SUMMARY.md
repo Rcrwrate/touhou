@@ -6,6 +6,7 @@
 
 * [东方铃奈庵](official/dflny/README.md)
   * [第1话 幻想的珍奇本](official/dflny/1.md)
+  * [第2话 妖怪退治的腊月](official/dflny/di-2-hua-yao-guai-tui-zhi-de-la-yue.md)
 
 ## 同人作品 <a id="doujinshi"></a>
 
