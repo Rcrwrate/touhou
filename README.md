@@ -11,9 +11,10 @@
 
 ### ~~更好的阅读？~~
 
-\*\*\*\*[**GITHUB**](https://github.com/Rcrwrate/touhou/blob/master/SUMMARY.md)\*\*\*\*
+[**GITHUB**](https://github.com/Rcrwrate/touhou/blob/master/SUMMARY.md)
 
-\*\*\*\*[**GITEE**](https://gitee.com/Rcrwrate/touhou/blob/master/SUMMARY.md)**\(国内镜像\)**
+[**GITEE**](https://gitee.com/Rcrwrate/touhou/blob/master/SUMMARY.md)**\(国内镜像\)**
 
 **无法阅读** [~~**CODING**~~](https://sirin.coding.net/public/touhou/touhou/git/files)~~\*\*\*\*~~
 
+[**源存档地址**](https://touhou-project.icu/)
