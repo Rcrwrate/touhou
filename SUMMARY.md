@@ -9,6 +9,7 @@
   * [第2话 妖怪退治的腊月](official/dflny/2.md)
   * [第3话 妖怪退治的腊月](official/dflny/3.md)
   * [第4话 私家版百鬼夜行绘卷 前篇](official/dflny/4.md)
+  * [第5话 私家版百鬼夜行绘卷 后篇](official/dflny/5.md)
 
 ## 同人作品 <a id="doujinshi"></a>
 
